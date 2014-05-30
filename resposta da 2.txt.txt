@@ -1,7 +1,0 @@
-VIEW é avparte que  interage  com o  usuario é nela que são implementado o layout , menu, entre outos.
-
-IMAGECACHE é onde as telas da aplicação são guardadas, para evitar a carga de imagens no servidor.
-
-BACKEND é responsavel por todo processamento final dos dados recebidos do front-end
-
-a View se vai ate a Imagemcache para carregar uma imagem, em seguida vai buscar a imagem no back-end.em seguida fica salva no imagecache e retorna para a view que será mostrado para o usuario. e lembrando que a imagem fica guardada no cache do servidor. 
