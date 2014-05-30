@@ -1,1 +1,9 @@
-1 passo
+VIEW é avparte que  interage  com o  usuario é nela que são implementado o layout , menu, entre outos.
+
+DATACACHE gerencia os dados da aplicação.
+
+SERVICE é responsavel pela integração com o Backend.
+
+BACKEND é responsavel por todo processamento final dos dados recebidos do front-end
+
+a View se comunica com a parte service, que vai buscar na datacache os dados que serao guardados no back-end.
